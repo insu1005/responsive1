@@ -122,7 +122,8 @@ section.sec3 article strong {
 }
 section.sec3 article em {
   display: block;
-  font-size: 40px;font-weight: 800; transform: translateY(40%);
+  font-size: 40px;font-weight: 800;
+  transform: translateY(40%);
   transition: all 0.3s;
   opacity: 0;
 }
@@ -168,7 +169,6 @@ section.sec8:hover article {
   transform: scale(1);
   animation: twinkle 2s infinite;
 }
-
 section.sec9{
   width: 40%; 
   background-image: url(../img/pic4.png)
